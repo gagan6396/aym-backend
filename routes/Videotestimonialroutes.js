@@ -7,7 +7,7 @@ const {
   getOne,
   update,
   remove,
-} = require("../controllers/homepage/VideotestimonialController");
+} = require("../controllers/homepage/Videotestimonialcontroller");
 
 /* =========================
    VIDEO TESTIMONIAL ROUTES
